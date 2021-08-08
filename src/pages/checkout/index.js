@@ -5,7 +5,7 @@ const Checkout = () => {
     return (
         <div className="h-100">
             <Header />
-            <div className="container mt-4">
+            <div className="container mt-2">
                 <div className="row">
                     <div className="col-6">
                         <span className="section-title">Dados de entrega</span>
@@ -107,6 +107,7 @@ const Checkout = () => {
 
                         <div className="row mb-3">
 
+                        
                             <div className="col-6">
                                 <input
                                     type="text"
@@ -126,9 +127,26 @@ const Checkout = () => {
                             </div>
                         </div>
 
+                        <div className="row mt-4">
+                            <div className="col-12 d-flex justify-content-between align-itens-center">
+                                <b>Total</b>
+                                <h3>R$30,00</h3>
+                            </div>
+                            <div className="col-12">
+                                <button className="btn btn-block btn-lg btn-primary">Finalizar compra</button>
+                            </div>
+                        </div>
 
                     </div>
-                    <div className="col-6"></div>
+                    <div className="col-6">
+                        <div className="box col-8 mb-4">
+                            <h4>Minha sacola (5)</h4>
+
+                            <div className="row products">
+
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>

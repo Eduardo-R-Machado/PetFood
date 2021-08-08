@@ -70,4 +70,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 
----Ending in 49:50 Aula 1, Botão de finalizar compra da pagina checkout--
+---Ending in 1:00:00 Aula 1, Inserindo imagem e criando component de produtos e listas --

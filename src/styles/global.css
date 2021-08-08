@@ -39,6 +39,15 @@ input[type='date']:disabled{
     background-color: var(--verde) !important;
 }
 
+.btn-primary,
+.btn-primary:focus,
+.btn-primary:active,
+.btn-primary:disabled,
+.btn-primary:hover {
+    background-color: var(--verde) !important;
+    border-color: var(--verde);
+}
+
 .btn {
     font-size: 15px;
 }
